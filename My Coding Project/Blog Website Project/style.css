@@ -1,0 +1,84 @@
+body{
+    background:#f4f4f4;
+    margin:0;
+    padding:0;
+}
+.container{
+    width:100%;
+    margin:0;
+}
+  .main-header{
+    text-align: center;
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.last{
+    text-align: center;
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+    margin:20px;
+    background: rgb(194,194, 194);
+}
+.showcase1{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.showcase-image1{
+    width:50%;
+}
+.showcase2{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.showcase-image2{
+    width:50%;
+}
+.about-me{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.about-metext{
+    margin-top:10px;
+}
+.img-left1{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.img-left2{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.img-left3{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+.follow{
+    padding:20px;
+    border: 10px rgb(194,194, 194) solid;
+}
+
+/* .showcase-images{
+    height:400px;
+    width:100%;
+    padding:20px;
+    border:10px rgb(255,228,225) solid;
+    margin:30px;
+}
+ .showcase2{
+    background:url('img/image1.jpg');
+    height:400px;
+    width:100%;
+    background-size: cover;
+    padding:20px;
+    border:10px rgb(255,228,225) solid;
+}
+.about-me{
+    padding:20px;
+    border:10px rgb(255,228,225) solid;
+}
+.about-metext{
+    margin-top: 20px;
+}
+.img-left1{
+    margin: 20px;
+}
